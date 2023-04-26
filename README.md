@@ -26,6 +26,8 @@ Arduino project for automated farming.
     sage
     Origan
 
+![](/images/soil_moisture_sensor.png)
+
 
 ## PIECES NECESSARY FOR X CROPS 
 N = plants per crop
