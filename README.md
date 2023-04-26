@@ -1,7 +1,7 @@
 # iFarm
 Arduino project for automated farming.
+![](/images/soil_moisture_sensor.png)
 
-![](/images/water_closing.png)
 
 ## Crops
 ### Vegetables
@@ -25,8 +25,8 @@ Arduino project for automated farming.
     rosemary
     sage
     Origan
+![](/images/water_closing.png)
 
-![](/images/soil_moisture_sensor.png)
 
 
 ## PIECES NECESSARY FOR X CROPS 
