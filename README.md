@@ -12,9 +12,7 @@ Arduino project for automated farming.
     cut lettuce
     eggplant
     celery
-    tomato
     strawberries
-    radishes
     carrots
     peppers
 
