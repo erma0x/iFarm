@@ -1,6 +1,7 @@
 # iFarm
 Arduino project for automated farming.
 
+![](/images/water_closing.png)
 
 ## Crops
 ### Vegetables
@@ -41,6 +42,7 @@ X = soil moisture sensor
     1 hose for filling rainwater
     1 solar cell that recharges the battery
 
+![](/images/relay_blueprint.png)
 
 ## Tools for work
     cables
